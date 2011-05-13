@@ -1,0 +1,17 @@
+/*  PageFlip */
+
+body {
+	background-color:#EEEEEE;
+}
+
+.pageflip-show #pageflip-outer {
+	width:100%;
+	height:100%;
+	text-align:center;
+	overflow:hidden;
+}
+
+.pageflip-show #pageflip-outer object {
+
+	
+}
